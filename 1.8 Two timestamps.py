@@ -1,0 +1,9 @@
+h=int(input())
+m=int(input())
+s=int(input())
+h1=int(input())
+m1=int(input())
+s1=int(input())
+ts=s+m*60+h*60*60
+ts1=s1+m1*60+h1*60*60
+print(ts1-ts)
