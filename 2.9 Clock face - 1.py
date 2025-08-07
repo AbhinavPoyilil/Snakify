@@ -1,5 +1,0 @@
-H=int(input())
-M=int(input())
-S=int(input())
-t=(H*30)+(M*0.5)+(S*0.0083333333333333)
-print(t)
