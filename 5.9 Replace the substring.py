@@ -8,3 +8,4 @@ for i in a:
 print(b)        
     
 
+
